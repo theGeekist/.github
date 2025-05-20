@@ -1,4 +1,4 @@
-<h1 align="center">🧠 The Geekist</h1>
+<h1 align="center">The Geekist</h1>
 <p align="center">
 A space where mastery meets play. 20 years of code, creativity, and curiosity — distilled.
 </p>
