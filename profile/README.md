@@ -4,11 +4,18 @@ A space where mastery meets play. 20 years of code, creativity, and curiosity �
 </p>
 
 <p align="center">
-  <a href="https://geekist.co">🌍 geekist.co</a> •
-  <a href="https://github.com/theGeekist/nginx-by-example">📘 NGINX by Example</a> •
-  <a href="https://github.com/theGeekist/skeletor">⚙️ Skeletor</a> •
-  <a href="https://x.com/theGeekist">🐦 Twitter</a> •
-  <a href="https://www.tiktok.com/@thegeekist">🎥 TikTok</a>
+  <a href="https://geekist.co">
+    <img src="https://img.shields.io/badge/geekist.co-online-brightgreen?style=flat-square" alt="geekist.co">
+  </a>
+  <a href="https://github.com/theGeekist/nginx-by-example">
+    <img src="https://img.shields.io/github/stars/theGeekist/nginx-by-example?label=NGINX%20by%20Example&style=flat-square" alt="NGINX by Example">
+  </a>
+  <a href="https://github.com/theGeekist/skeletor">
+    <img src="https://img.shields.io/github/stars/theGeekist/skeletor?label=Skeletor&style=flat-square" alt="Skeletor">
+  </a>
+  <a href="https://x.com/theGeekist">
+    <img src="https://img.shields.io/badge/Twitter-%40theGeekist-1DA1F2?style=flat-square" alt="Twitter">
+  </a>
 </p>
 
 ## 🧩 Featured Projects
@@ -34,12 +41,11 @@ A space where mastery meets play. 20 years of code, creativity, and curiosity �
 
 ## 👥 Core Contributors
 
-(@jasonnathan)[@jjnathan](https://jasonnathan.github.io)
-
+[@jasonnathan](https://jasonnathan.github.io)
 
 ## 📣 Join the Geekery
 
-We don't just code — we explore.  
+We don't just code. We explore.  
 Want to collaborate?  
-Message us, fork us, or just [geek out with us](https://geekist.co/subscribe).
+Message us, fork us or just [geek out with us](https://geekist.co/subscribe).
 
