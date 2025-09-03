@@ -54,7 +54,7 @@ A space where mastery meets play. 20 years of code, creativity, and curiosity �
 - 🔍 Score & apply list updates with explainable prompts  
 - 🔒 100% local-first, no cloud dependencies  
 
-➡️ [Read the full research-style README](https://github.com/theGeekist/stars)
+➡️ [Read the full README](https://github.com/theGeekist/stars)
 
 ---
 
